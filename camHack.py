@@ -1,10 +1,6 @@
-import requests, re, colorama, random
+import requests, re
 from requests.structures import CaseInsensitiveDict
 import os
-
-
-colorama.init()
-
 
 
 
@@ -171,4 +167,5 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         clean()
         exit()
+
 
