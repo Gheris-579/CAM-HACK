@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains CAM-HACK, a Python script that automates discovery of publicly-exposed IP camera streams by parsing Insecam’s more or less country pages. The tool fetches the country index as JSON, lists countries with counts of devices, and (when run interactively) scrapes the selected country’s bycountry pages to extract IP:PORT stream
+This repository contains CAM-HACK, a Python script that automates discovery of ""publicly""-exposed IP camera streams by parsing Insecam’s more or less country pages. The tool fetches the country index as JSON, lists countries with counts of devices, and (when run interactively) scrapes the selected country’s bycountry pages to extract IP:PORT stream
 
 
 ---
